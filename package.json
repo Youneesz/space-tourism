@@ -1,7 +1,6 @@
 {
   "name": "space-tourism-project",
   "version": "0.1.0",
-  "homepage": "https://youneesz.github.io/portfolio/",
   "private": true,
   "dependencies": {
     "@react-three/fiber": "^8.15.11",
